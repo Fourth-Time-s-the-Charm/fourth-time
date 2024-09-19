@@ -1,4 +1,4 @@
-# Fouth Time's the Charm
+p# Fouth Time's the Charm
 
 **Team Name:** Fourth Time's the Charm
 
@@ -13,8 +13,8 @@
 * Cameron Robinson - Project Manager
 * Chris Cabonilas - Website Manager
 * Mitchell Sulkowski - Development Environment Specialist
-* Noah Pelletier - 
-* Ray Axmann - 
+* Noah Pelletier - Developer
+* Ray Axmann - Developer
 
 ## Project Synopsis
 
