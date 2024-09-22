@@ -13,7 +13,7 @@
 * Cameron Robinson - Project Manager
 * Chris Cabonilas - Website Manager
 * Mitchell Sulkowski - Development Environment Specialist
-* Noah Pelletier - Developer
+* Noah Pelletier - Time Sheet Manager
 * Ray Axmann - Developer
 
 ## Project Synopsis
