@@ -23,4 +23,4 @@ Over the last 3 years RIT’s Program of Color Science has worked with Senior Pr
 Cultural heritage imaging, museum imaging, spectral imaging, image processing, color reproduction
 
 ## Weekly 4-Ups
-![4-Up for the week of 9-8-24](\4ups\4up_09-08-24.png)
+![4-Up for the week of 9-8-24](/4ups/4up_09-08-24.png)
