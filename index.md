@@ -22,6 +22,9 @@ Over the last 3 years RIT’s Program of Color Science has worked with Senior Pr
 ## Project Keywords
 Cultural heritage imaging, museum imaging, spectral imaging, image processing, color reproduction
 
+## Time Chart
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0hKghaQxYzPbCpa-2W5CFRmggimDXGTnzQHXGo75hfmSkwBuD4YuD59FGfXKtGhH6RhdZRnl5hmlQ/pubhtml?gid=1909280127&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 ## Weekly 4-Ups
 ![4-Up for the week of 9-15-24](/4ups/4up_09-15-24.png)
 ![4-Up for the week of 9-8-24](/4ups/4up_09-08-24.png)
