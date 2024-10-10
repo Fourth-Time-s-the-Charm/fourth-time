@@ -26,6 +26,7 @@ Cultural heritage imaging, museum imaging, spectral imaging, image processing, c
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0hKghaQxYzPbCpa-2W5CFRmggimDXGTnzQHXGo75hfmSkwBuD4YuD59FGfXKtGhH6RhdZRnl5hmlQ/pubchart?oid=360815602&amp;format=interactive"></iframe>
 
 ## Weekly 4-Ups
+![4-Up for the week of 9-29-24](/4ups/4up_09-29-24.png)
 ![4-Up for the week of 9-22-24](/4ups/4up_09-22-24.png)
 ![4-Up for the week of 9-15-24](/4ups/4up_09-15-24.png)
 ![4-Up for the week of 9-8-24](/4ups/4up_09-08-24.png)
